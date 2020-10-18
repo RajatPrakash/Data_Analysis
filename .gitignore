@@ -4601,6 +4601,7 @@ practice/Lib/site-packages/pythonwin/pywin/Demos/ocx/__pycache__/msoffice.cpytho
 practice/Lib/site-packages/pythonwin/pywin/Demos/ocx/__pycache__/ocxserialtest.cpython-38.pyc
 practice/Lib/site-packages/pythonwin/pywin/Demos/ocx/__pycache__/ocxtest.cpython-38.pyc
 Stack Data/
+*.log
 developer_survey_2020.zip
 practice/Lib/site-packages/pythonwin/pywin/Demos/ocx/__pycache__/webbrowser.cpython-38.pyc
 practice/Lib/site-packages/pythonwin/pywin/dialogs/__init__.py
